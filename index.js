@@ -8,7 +8,8 @@ $(document)
  * Trigger validation for pre-filled fields
  */
 .ready(function() {
-    $('.field input, .field textarea').each(function() {
+    $('.field input, .field textarea, .field select')
+    .each(function() {
         if (this.value.length > 0) $(this).change();
     })
 })

@@ -1,6 +1,6 @@
 {
   "name": "bulma-jquery-forms",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "JQuery hooks for Bulma forms",
   "main": "index.js",
   "repository": {
