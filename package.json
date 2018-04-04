@@ -1,18 +1,15 @@
 {
   "name": "bulma-jquery-forms",
-  "version": "1.0.0",
-  "description": "JQuery hooks for bulma forms",
+  "version": "1.0.1",
+  "description": "JQuery hooks for Bulma forms",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "github.com/gwillz/bulma-jquery-forms"
   },
   "author": "Gwilyn Saunders",
   "license": "GPL-3.0",
-  "dependencies": {
+  "peerDependencies": {
     "jquery": "^3.3.1"
   }
 }
